@@ -1,0 +1,15 @@
+# Composer files
+vendor
+
+# Wordpress files
+public/core
+public/sar
+public/app/plugins
+public/app/uploads
+
+# Configuration
+.env
+
+# Junk files
+public/app/debug.log
+.DS_Store
